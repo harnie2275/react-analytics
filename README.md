@@ -3,14 +3,12 @@
 This is a react/next library that allows you to integrate google analytics easily.
 
 ## Installation
-using yarn
+###using yarn
 
 ```bash
 yarn add js-react-analytics
 
-using npm
-
-```bash
+###using npm
 npm install js-react-analytics
 
 ## Usage
