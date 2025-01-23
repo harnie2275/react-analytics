@@ -23,7 +23,7 @@ import {GoogleAnalyticsProvider} from 'js-react-analytics/next;
 function MyApp({ Component, pageProps }: any) {
   return (
     <>
-      <GoogleAnalytics trackingId="G-EEN44L4H8F" />
+      <GoogleAnalytics trackingId="G-XXXXXXXXXXX" />
       <Component {...pageProps} />
     </>
   );
