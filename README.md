@@ -1,15 +1,16 @@
-**JS-REACT-ANALYTICS**
+# JS-REACT-ANALYTICS
+
 This is a react/next library that allows you to integrate google analytics easily.
 
-**Installation**
+## Installation
 using yarn
 yarn add js-react-analytics
 
 using npm
 npm install js-react-analytics
 
-**Usage**
-**Using Component for NextJs**
+## Usage
+### Using Component for NextJs
 import React from 'react';
 import {GoogleAnalyticsProvider} from 'js-react-analytics/next;
 
