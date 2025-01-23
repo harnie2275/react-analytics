@@ -62,3 +62,12 @@ const App: React.FC = () => {
 
 export default App;
 ```
+
+### Using hooks
+
+```js
+import React from "react";
+import { GoogleAnalyticsProvider } from "js-react-analytics/next";
+
+useGoogleAnalytics("trackingIDs");
+```
