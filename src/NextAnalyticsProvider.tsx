@@ -61,4 +61,4 @@ const GoogleAnalyticsProvider: FunctionComponent<analyticsProvider> = ({
   );
 };
 
-export default GoogleAnalyticsProvider;
+export { GoogleAnalyticsProvider };
