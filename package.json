@@ -2,6 +2,10 @@
   "name": "js-react-analytics",
   "version": "1.0.1",
   "description": "Google analytics for react app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harnie2275/react-analytics.git"
+  },
   "main": "dist/react/index.js",
   "module": "dist/react/index.mjs",
   "types": "dist/react/index.d.ts",
