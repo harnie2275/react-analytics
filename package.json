@@ -1,5 +1,5 @@
 {
-  "name": "react-analytics",
+  "name": "js-react-analytics",
   "version": "1.0.0",
   "description": "Google analytics for react app",
   "main": "dist/react/index.js",
