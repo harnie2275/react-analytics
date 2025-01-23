@@ -1,6 +1,6 @@
 {
   "name": "js-react-analytics",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Google analytics for react app",
   "main": "dist/react/index.js",
   "module": "dist/react/index.mjs",
